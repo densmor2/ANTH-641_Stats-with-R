@@ -1,4 +1,4 @@
-
+DartPoints Data
  numSummary(DartPoints[, 5:11])
            mean    sd   IQR   0%   25%  50%   75%  100%  n NA
 Length    49.33 12.74 14.95 30.6 40.85 47.1 55.80 109.5 91  0
@@ -8,4 +8,12 @@ B.Width   13.75  2.95  3.80  7.1 11.70 13.6 15.50  21.2 69 22
 J.Width   15.40  2.73  3.95 10.6 13.12 15.6 17.08  21.2 90  1
 H.Length  13.41  4.01  5.80  5.8 10.50 12.5 16.30  23.3 91  0
 Weight     7.64  4.21  5.50  2.3  4.55  6.8 10.05  28.8 91  0
-patterns noticed:
+Patterns Noticed:
+
+Pithouses Data
+Hearths       Depth        Size             Form                   Orient                 Entrance 
+ None         : 7   Deep   :27   Small :21   Oval       : 7   Parallel Coast    :39   One Side          : 7  
+ One          : 9   Shallow:18   Medium:21   Rectangular:38   Gabel Toward Coast: 6   Front and One Side: 2  
+ Two          :15                Large : 3                                            None              :36  
+ Charcoal Conc:14       
+ Patterns Noticed:
