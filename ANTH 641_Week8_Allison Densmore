@@ -1,4 +1,6 @@
-DartPoints Data
+# Week 8 notes
+---
+### DartPoints Data
  numSummary(DartPoints[, 5:11])
            mean    sd   IQR   0%   25%  50%   75%  100%  n NA
 Length    49.33 12.74 14.95 30.6 40.85 47.1 55.80 109.5 91  0
@@ -8,9 +10,11 @@ B.Width   13.75  2.95  3.80  7.1 11.70 13.6 15.50  21.2 69 22
 J.Width   15.40  2.73  3.95 10.6 13.12 15.6 17.08  21.2 90  1
 H.Length  13.41  4.01  5.80  5.8 10.50 12.5 16.30  23.3 91  0
 Weight     7.64  4.21  5.50  2.3  4.55  6.8 10.05  28.8 91  0
-Patterns Noticed:
 
-Acheulean Data
+Patterns Noticed: 
+
+---
+### Acheulean Data
   mean     sd   IQR 0%  25% 50%   75% 100% n
 HA  139.00 127.36 191.5  1 30.0 132 221.5  337 7
 CL   94.86 102.41 136.0  8 16.0  56 152.0  264 7
@@ -26,5 +30,10 @@ SS  104.14 111.64 129.5 17 26.0  46 155.5  303 7
 OST  66.43  69.96  43.5 18 23.5  48  67.0  218 7   
  Patterns Noticed:
  
-When using R to create charts based on the data, particularly for the La Tene Fibulae, I found the barplot as significantly more helpful for visualizing the data. I cannot deny the minimalistic beauty of the pie chart but when it comes to showing the data in the most effective way, the barplot takes the cake as it allows for the visualization of multiple variables.
+ ---
+ ### Charts
+When using R to create charts based on the data, I like that there are multitudes of charts that you can make on the program. Particularly for the La Tene Fibulae, I found the barplot as significantly more helpful for visualizing the data. I cannot deny the minimalistic beauty of the pie chart but when it comes to showing the data in the most effective way, the barplot takes the cake as it allows for the visualization of multiple variables.
 
+ ---
+ ### Principle Components Analysis
+Prior to doing this week's activities I had not even heard of PCA. Once reading more in the Github Repo, however, I came to understand PCA as being an incredibly helpful way of visualizing and interpreting the data. The PCA plot that I made in RStudio was a lot to take in at first but I was able to identify some patterns. First, it seems like all data points are coming out of a central area in the upper-right quadrant of the chart. The red arrows further clarify this but also only show up in the lower 180 degrees of the distribution which I think is interesting but I don't know for sure what it means.
