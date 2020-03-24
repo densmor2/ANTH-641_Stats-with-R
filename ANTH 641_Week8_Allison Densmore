@@ -17,3 +17,6 @@ Hearths       Depth        Size             Form                   Orient       
  Two          :15                Large : 3                                            None              :36  
  Charcoal Conc:14       
  Patterns Noticed:
+ 
+When using R to create charts based on the data, particularly for the La Tene Fibulae, I found the barplot as significantly more helpful for visualizing the data. I cannot deny the minimalistic beauty of the pie chart but when it comes to showing the data in the most effective way, the barplot takes the cake as it allows for the visualization of multiple variables.
+
