@@ -1,0 +1,658 @@
+URI,Citation URI,Item Label,Project Label,Project URI,Context (1),Context (2),Context (3),Context (4),Context (5),Context (6),Context URI,Latitude (WGS-84),Longitude (WGS-84),Early BCE/CE,Late BCE/CE,Item Category,Published Date,Updated Date,Has type,Consists of,Temporal Coverage,Director,Fabric Category,Fragment Noted,Object Type,Fabric Description,Object Type (notes),Condition,Description,Size,Object Master Grid,Local Grid (Y)
+http://opencontext.org/subjects/4F07EB1B-A02D-460B-C0A5-4EE59C8D4081,https://n2t.net/ark:/28722/k2br8rf84,PC 19870042,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1987, ID:126",,http://opencontext.org/subjects/08D96C71-10E5-4C1E-245F-26D84BDC3426,43.15265241,11.40193819,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:34:05Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Light green glass,Glass Fragment,"Preserves finished upper edge and partially finished side edges; all other edges are broken. Surface deteriorated and pitted; restored from two pieces, third piece too small to join.","An irregularly shaped glass fragment with a rounded upper edge, perhaps a rim of a small bowl.","Max. Pres. Length 0.0318 m, Max. Pres. Width 0.0178 m, Max. Pres. Thickness 0.007 m, Max. Pres. Diameter 0.060 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>194.494</td>
+    <td>-61.029</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",M
+http://opencontext.org/subjects/CEB51AE1-6E4E-43E8-A39D-E30387F5F59D,https://n2t.net/ark:/28722/k2bk1bn51,PC 20080175,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 48,"2008, ID:599",Locus 13,http://opencontext.org/subjects/56e60772-8075-494c-b96e-c13f7080aca3,43.15271536,11.40196602,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:37:12Z,vessel; aryballoi; Aryballos; aryballos,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Barbatine Glass Aryballos Fragment,"Surfaces are worn, pitted, chipped, and encrusted.  Iridescence of surfaces caused by corrosion.",,"Max. Pres. Length 0.017 m, Max. Pres. Width 0.017 m, Max. Pres. Thickness 0.005 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>196.24</td>
+    <td>-53.89</td>
+    <td></td>
+    <td>25.54</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/E67C4075-8747-44FD-7FDA-2366E65D2504,https://n2t.net/ark:/28722/k2jh3j24b,PC 19810095,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1981, ID:109",,http://opencontext.org/subjects/C4E13506-CCFB-4538-8307-412EAB609CAB,43.15270513,11.40202137,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:24:35Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Rim Fragment,Broken off on two sides; surface is pitted.,"Glass fragment is blue in color, preserves part of a finished rim and is curved.","Max. Pres. Width 0.039 m, Max. Pres. Thickness 0.005 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>200.812</td>
+    <td>-54.697</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",E
+http://opencontext.org/subjects/06D88AAA-FEBD-46E5-956F-3230775E8EB9,FALSE,PC 20030005,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro South Terrace,Tesoro South Terrace 1,"2003, ID:505",Locus 2,http://opencontext.org/subjects/d9d6bbfd-2173-48e4-ac8a-9e1ef3232f00,43.1523672,11.40192527,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:25:50Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,"Costume, Accessories::Bead",Glass,Cobalt Glass Bead Fragment,"Fragment preserves a portion of a smooth, incised exterior surface, sharp and jagged break edges, and an irregular interior surface with a triangular pit in the center, some encrustation.",Fragment of a glass bead preserves a concave exterior surface with a portion of an incised oval on the exterior surface.,"Max. Pres. Length 0.007 m, Max. Pres. Thickness 0.003 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>195.77</td>
+    <td>-92.7</td>
+    <td></td>
+    <td>22.18</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/10C37438-1D64-46F3-021D-D8033739A1B2,https://n2t.net/ark:/28722/k2n013r9b,PC 20090041,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 52,"2009, ID:612",Locus 11,http://opencontext.org/subjects/fc60c061-b031-4fad-b0ef-4257a2121ac5,43.15273257,11.4018785,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:26:25Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass,Glass Bead,"Intact, slightly encrusted.","Small ring of cobalt blue glass, probably a bead, is preserved.",Max. Pres. Diameter 0.005 m,,
+http://opencontext.org/subjects/476C4BAA-69F6-4F50-EA5A-042912181754,https://n2t.net/ark:/28722/k2rf5qd8r,PC 20040170,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 30C,"2004, ID:537",Locus 4,http://opencontext.org/subjects/928538f6-dfc4-42da-9765-5b1b44d54da1,43.15272826,11.40174085,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:32:21Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass,Glass Bead,Surfaces are slightly worn and pitted.,"A small ring of glass, possibly a bead or a decorative element of a fibula, is preserved.","Max. Pres. Diameter 0.005 m, Max. Pres. Thickness 0.001 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>177.87</td>
+    <td>-53.79</td>
+    <td></td>
+    <td>26.88</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/F64857A0-B13A-4893-5D7C-06725909960A,https://n2t.net/ark:/28722/k22j6d418,PC 19810097,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1981, ID:109",,http://opencontext.org/subjects/C4E13506-CCFB-4538-8307-412EAB609CAB,43.15274528,11.40201755,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:50:26Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Rim Fragment,Broken off on two sides; surface is pitted,Glass fragment is blue in color and preserves a section of the rim. Along the inside of the rim is preserved a drilled hole running parallel to the edge.,"Max. Pres. Width 0.015 m, Max. Pres. Height 0.012 m, Max. Pres. Thickness 0.003 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>200.175</td>
+    <td>-50.271</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",A
+http://opencontext.org/subjects/0FFD79DB-D200-4E98-3AEB-0841B148AD7A,https://n2t.net/ark:/28722/k27h1jn3x,PC 19710020,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 17,"1971, ID:68",,http://opencontext.org/subjects/A7F2CCBF-3A83-4AA0-2BD0-0E2E99900624,43.15355766,11.40148681,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:36:03Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead","Glass, translucent bright blue-gray",Glass Bead,Entire; one side cracked or worn.,"Single bead with regular round hole in center and roughly flat top and bottom; sides are round but bulge more on one side than the other; sides are decorated with apparently molded relief - four equidistant circular grooves create four pinched, raised round areas which project like bosses.","Pres. Diameter 0.006-0.007 m, Max. Pres. Thickness 0.004 m, Max. Pres.Diameter of Hole 0.003 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>150.508</td>
+    <td>36.594</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",F
+http://opencontext.org/subjects/2C08C1B8-91B1-46C7-986B-C14F454ADAF3,https://n2t.net/ark:/28722/k2542p74n,PC 19940058,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1994, ID:141",,http://opencontext.org/subjects/CF45634D-C744-4FBE-CB30-DE94362392F5,43.15266904,11.40194762,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:22:54Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,"Costume, Accessories::Bead",Glass,Glass Bead Fragment,Half of the bead is preserved in good condition,Bead fragment is blue.  It is decorated with a chipped out circular groove which creates a raised round area in the center.  Half of a second circular groove and corresponding raised area are also preserved.,"Max. Pres. Diameter 0.008 m, Max. Pres. Diameter of Hole 0.003 m, Max. Pres. Height 0.005 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>195.125</td>
+    <td>-59.131</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",K
+http://opencontext.org/subjects/1CDFAEB2-44F2-4C39-347F-74A3E78D1ACE,https://n2t.net/ark:/28722/k2sf2r923,PC 19980054,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate A,Civitate A 42N,"1998, ID:360",,http://opencontext.org/subjects/7C56C14F-9336-443D-4D1F-602299831244,43.15345013,11.39950959,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:27:05Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,"Costume, Accessories::Bead",Glass,Glass Bead Fragment,Broken.  More than half of the bead is preserved.  The surface is somewhat scratched.,Small glass bead is uniformly blue in color.  The interior is flat and the exterior is rounded.,"Max. Pres. Thickness 0.001 m, Max. Pres. Diameter 0.004 m, Max. Pres. Thickness 0.001 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>-8.99</td>
+    <td>13.02</td>
+    <td>130.0</td>
+    <td></td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/8647E539-7EB6-4419-3971-CF43595E2E03,https://n2t.net/ark:/28722/k2t14zp5w,PC 19810096,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1981, ID:109",,http://opencontext.org/subjects/C4E13506-CCFB-4538-8307-412EAB609CAB,43.15272176,11.4020308,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:24:42Z,production/replication,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,Production Waste,Glass,Glass Slag,Irregularly broken off on all sides; pitted.,Glass slag is blue in color and of indeterminate shape.,Max. Pres. Dimension 0.024 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>201.442</td>
+    <td>-52.799</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",C
+http://opencontext.org/subjects/2DED074B-7626-4068-121D-36BDB042D837,FALSE,PC 19711004,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:28:04Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Fragment preserves no finished edges.  Surfaces are slightly worn and pitted, and have traces of and irridescent patina.","Glass fragment is broken so that it tapers to a point and preserves a tight curvature across its width.  It is yellow in color, and has a mettled gray substance on the interior surfaces, giving the glass the appearance of having black stripes.","Max. Pres. Length 0.026 m, Max. Pres. Width 0.007 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/C1614841-138E-4011-B58C-2AE6A01E1B61,https://n2t.net/ark:/28722/k27d2v55p,PC 20100009,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate A,Civitate A 64,"2010, ID:620",Locus 1,http://opencontext.org/subjects/8c0f4738-9b25-4822-927e-f1a718569508,43.15340146,11.39963724,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:36:09Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Surfaces are very bubbly, irregular, and encrusted; some irridescence","An irregular fragment of bubbly, colbalt blue glass is preserved.","Max. Pres. Length 0.026 m, Max. Pres. Width 0.013 m, Max. Pres. Thickness 0.007 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>1.76</td>
+    <td>8.38</td>
+    <td></td>
+    <td>29.03</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/7AEAD8A2-01BF-4A01-7A99-D56A6089ACFA,https://n2t.net/ark:/28722/k24x58g90,PC 20000089,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 21,"2000, ID:425",,http://opencontext.org/subjects/B0F889B2-6D71-4022-F311-CAA9919A9ECC,43.15276498,11.40152422,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:32:15Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,The fragment appears broken on all sides.  The surface is well worn and pitted.,A small fragment of bluish glass is preserved.  The fragment is generally rectangular in shape.  The overall fragment preserves a slight curvature.,"Max. Pres. Length 0.018 m, Max. Pres. Height 0.011 m, Max. Pres. Width 0.022 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>160.0</td>
+    <td>-51.0</td>
+    <td>111.0</td>
+    <td></td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/C5400F57-0D44-4751-F524-D9827E68AF02,https://n2t.net/ark:/28722/k28c9w34b,PC 19930145,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 22 West Extension,"1993, ID:390",,http://opencontext.org/subjects/CC2F0592-3B62-4706-2CF9-55DBE9D72E4E,43.1527851,11.40169401,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:36:26Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,Vessel,Blue glass,Glass,Broken on all sides.  Glass is heavily pitted and decomposed.  The surface is mottled.,Fragment of glass vessel is semicircular in section.  The exterior is ridged and portions of three lateral bands are preserved.  The bands are separated by grooves of approximately the same thickness.,"Max. Pres. Length 0.015 m, Max. Pres. Diameter 0.015 m, Max. Pres. Thickness 0.002 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>173.609</td>
+    <td>-47.77</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",G
+http://opencontext.org/subjects/623CFA67-0011-47D7-1F6E-A6C78CB30D5D,https://n2t.net/ark:/28722/k2q52kc2j,PC 19870068,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1987, ID:126",,http://opencontext.org/subjects/08D96C71-10E5-4C1E-245F-26D84BDC3426,43.1526609,11.40210275,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T09:51:50Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Blue glass,Glass Fragment,Broken on all sides. Worn.,"A small fragment of blue glass, slightly curved. The surface is pocked.","Max. Pres. Height 0.010 m, Max. Pres. Width 0.0105 m, Max. Pres. Thickness 0.002 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>207.774</td>
+    <td>-59.117</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+   <td>208.408</td>
+    <td>-60.381</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",G; H
+http://opencontext.org/subjects/497618B0-CEB1-4A6F-8EF9-1FC1362E0CC0,https://n2t.net/ark:/28722/k26h4hp67,PC 20050087,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 30G,"2005, ID:554",Locus 3,http://opencontext.org/subjects/e0bc6674-de10-4ef9-8be7-f352e4ad1e95,43.15276501,11.40176093,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:29:33Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragments,"All surfaces are irregularly pitted, chipped, and slighly encrusted; some light irridescence.","Five fragments of cobalt-colored glass are preserved.  One larger, flat fragment appears to have regularly incised, parallel lines, and the next largest fragment may be a portion of a rim.","Max. Pres. Dimension of each fragment, largest to smallest: 0.020 m, 0.018 m, 0.011 m, 0.010 m, 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>179.20</td>
+    <td>-49.6</td>
+    <td></td>
+    <td>27.51</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/88E8B574-A0AE-448A-863A-7ED76A73835B,https://n2t.net/ark:/28722/k27s7ns30,PC 19780255,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15278397,11.40208975,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:16:44Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Blue Glass Fragment,Surface worn and pitted.,"Curved fragment of light blue glass, preserving one finished edge.","Max. Pres. Length 0.018 m, Max. Pres. Width 0.009 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>205.717</td>
+    <td>-45.559</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",E
+http://opencontext.org/subjects/7D4A1906-B892-4FD3-5A85-6E8D1037E92D,https://n2t.net/ark:/28722/k2xs5pg9q,PC 19810098,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1981, ID:109",,http://opencontext.org/subjects/C4E13506-CCFB-4538-8307-412EAB609CAB,43.15274528,11.40201755,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:32:22Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Handle and Rim Fragment,Restored from two pieces; broken off on three sides; surface is pitted.,Glass fragment preserves an everted lip which is perpendicular to the body of the cup and a small ring handle.,"Max. Pres. Height 0.017 m, Max. Pres. Width 0.031 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>200.175</td>
+    <td>-50.271</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",A
+http://opencontext.org/subjects/0F1BEAAA-266F-4F1C-CAB3-42104F770643,FALSE,PC 19960006,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate D,Civitate D 8,"1996, ID:251",,http://opencontext.org/subjects/FB0C00C0-F040-42E3-2EF0-3C73AEE34305,43.15171089,11.40361366,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:26:44Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass,Glass Bead,Approximately half the bead is preserved; the two broken edges are extremely jagged.  The surface is heavily pitted with small amounts of dirt still imbedded in the tiny holes.,"Fragment of a circular bead.  The exterior surface is convex and the interior preserves portions of a central perforation.  The bead is uniformly a light, blue-green color.","Max. Pres. Circumference 0.014 m, Max. Pres. Height 0.009 m, Max. Pres. Thickness 0.005 m",,3; 4
+http://opencontext.org/subjects/4AC7AE95-4508-44B7-1D7F-16C9291EA528,FALSE,PC 19711003,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:29:38Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Fragment preserves no finished edges.  Surfaces are shallowly pitted and have an irridescent patina.,Fragment is slightly warped and broken irregularly.  Glass is clear.,"Max. Pres. Length 0.019 m, Max. Pres. Width 0.016 m, Max. Pres. Thickness 0.002 m",,
+http://opencontext.org/subjects/C171E30D-E196-47A4-3803-D80DE9C5B0B3,FALSE,PC 19710617,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15332979,11.40135972,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:29:49Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass; amber in color.,Glass Bead,"Fragment of edge glued to bead; chipped, pitted and slightly encrusted.",Round bead in the shape of a truncated cone (or like a spindle whorl) with sloping sides; large end is concave with two incised concentric circles around the hole which is slightly off center; small end preserves a slightly irregular projecting ridge around the hole with rough edges (perhaps broken).,"Max. Pres. Height 0.008 m, Max. Pres. Diameter 0.013 m, Max. Pres. Diameter of hole 0.004 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>142.056</td>
+    <td>10.601</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",D
+http://opencontext.org/subjects/4AEBF559-FA7D-465A-F14C-FB3DD7CB40DB,FALSE,PC 19701000,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 13,"1970, ID:294",,http://opencontext.org/subjects/82001ECC-766E-4B9F-2FB0-AF5F30722583,43.15302099,11.4011997,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:47:56Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Existing surface preserves no finished edges and is heavily pitted. Surface displays slight opalesence.,"Fragment is irregularly broken, with portions of two grooves running across its width. The glass is blue in color.","Max. Pres. Length 0.017 m, Max. Pres. Width 0.008 m, Max. Pres. Thickness 0.002 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>131.593</td>
+    <td>-24.552</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",I
+http://opencontext.org/subjects/A2B7E3D7-8486-4295-B3F7-A9B8EECAB051,FALSE,PC 19710108,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338416,11.40138898,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:20:00Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead","Glass, whitish-beige with irridescent white patina.",Glass Bead,Entire; patinated and abraded.,Single glass bead is almost flat on top and bottom and rounded or bulging on sides with large round hole in approximate center; pitted on sides with uneven patina.,"Max. Pres. Diameter 0.015 m, Max. Pres. Diameter of Hole 0.006 m, Max. Pres. Thickness 0.009 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>143.987</td>
+    <td>16.797</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",D
+http://opencontext.org/subjects/2969EEBD-E99E-4531-F893-60EC9B391C7E,https://n2t.net/ark:/28722/k2v120h9j,PC 20070135,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate A,Civitate A 60,"2007, ID:595",Locus 1,http://opencontext.org/subjects/037cd02f-d6de-43dd-a1e0-7bf37148be0f,43.1534424,11.3997634,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:27:48Z,pendant,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Pendant",Glass,Medieval Glass Pendant,,Translucent green glass pendant consists of a rod that that swells slightly in the middle and then tapers to a long point. Bubbles are visible on the inside of the glass.,"Max. Pres. Length 0.034 m, Max. Pres. Width 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>11.66</td>
+    <td>13.66</td>
+    <td>106.0</td>
+    <td></td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/F96D8F21-59BF-4B91-653E-966C1F270794,https://n2t.net/ark:/28722/k2dv1hn02,PC 19870090,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1987, ID:126",,http://opencontext.org/subjects/08D96C71-10E5-4C1E-245F-26D84BDC3426,43.15255625,11.40203003,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:35:00Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,"Costume, Accessories::Bead",Blue glass,Glass Bead Fragment,Broken vertically preserving almost half of the bead. Slightly corroded.,"A spherical glass bead with a hole drilled through in the center from top to bottom. The outer surface is smooth, while the surface of the hole is slightly pocked.","Max. Pres. Height 0.0056 m, Max. Pres. Diameter 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>202.727</td>
+    <td>-71.139</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",T
+http://opencontext.org/subjects/B3630543-1AC0-4D03-9C72-9CB4980DD5E8,https://n2t.net/ark:/28722/k23r0ts1v,PC 20050104,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 30G,"2005, ID:554",Locus 6,http://opencontext.org/subjects/0eafaa66-d95b-48fc-b753-db6a5828452e,43.15275714,11.40173919,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:35:18Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Surfaces are irregularly pitted and slightly encrusted.,"A small, amporphous fragment of cobalt glass with sharp, irregular pits and ridges is preserved.",Max. Pres. Dimensions 0.007 x 0.004 x 0.003 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>177.5</td>
+    <td>-50.6</td>
+    <td></td>
+    <td>27.07</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/E08EFB7E-7758-4A78-A817-1F4FAA87CE5C,https://n2t.net/ark:/28722/k2z31sm9n,PC 20090094,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 50,"2009, ID:610",Locus 4,http://opencontext.org/subjects/da6aab79-7ac3-4b3c-acf1-5cd1479dd6ae,43.15268492,11.40171036,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:38:08Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Surfaces are highly irregular, pitted, jagged, and encrusted.","Amorphous fragment of bubbly, cobalt blue glass is preserved.","Max. Pres. Length 0.014 m, Max. Pres. Width 0.0076 m, Max. Pres. Thickness 0.0012 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>175.75</td>
+    <td>-58.77</td>
+    <td></td>
+    <td>27.26</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/80FC502F-829D-4151-2401-28C0AC630D74,https://n2t.net/ark:/28722/k24j0fz3r,PC 20100001,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate B,Civitate B 36,"2010, ID:624",Locus 2,http://opencontext.org/subjects/e949531b-09ed-4522-82ee-01adfc81f9e4,43.15324143,11.39898229,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:32:32Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Ring Fragment,Glass is slightly bubbly and encrusted with minor irridescence.,"Approximately one half of a small, cobalt blue glass ring is preserved.","Max. Pres. Thickness 0.0019 m, Max. Pres. Span of Arc 0.00548 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>-50.06</td>
+    <td>-13.21</td>
+    <td></td>
+    <td>30.87</td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/F4EF0EF1-75F2-4E1C-ED50-ED910D5D2B80,FALSE,PC 19711002,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:39:14Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,Vessel,Glass,Glass Ring,Ring is heavily chipped and pitted.  The surfaces have an irridescent patina.,Glass ring is thin and slightly warped.  A point projects off of one side.  The glass is light blue in color.,"Max. Pres. Diameter 0.010 m, Max. Pres. Thickness 0.004 m",,
+http://opencontext.org/subjects/19925022-E360-4CB5-41F4-AF3148BC6EC2,https://n2t.net/ark:/28722/k2474bq7q,PC 19930001,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 22 West Extension,"1993, ID:390",,http://opencontext.org/subjects/CC2F0592-3B62-4706-2CF9-55DBE9D72E4E,43.15279058,11.40164388,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:08:17Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Blue glass,Glass Fragment,No finished edges.  Fragment is semicircular body sherd with a small chip one edge.,"Convex fragment, approximately semi-circular, turquoise/blue.","Max. Pres. Length 0.025 m, Max. Pres. Height 0.012 m, Max. Pres. Thickness 0.003 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>169.498</td>
+    <td>-47.458</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",H
+http://opencontext.org/subjects/B9D84470-23BA-4AF7-DD92-87543190AF5F,https://n2t.net/ark:/28722/k2th8gn0k,PC 19780242,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15278397,11.40208975,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:29:24Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Fragment of Glass,Broken irregularly; surface pitted and worn.,Small curved fragment of blue glass preserving what appears to be one finished edge along the longest side.,"Max. Pres. Length 0.014 m, Max. Pres. Width 0.007 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>205.717</td>
+    <td>-45.559</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",E
+http://opencontext.org/subjects/06E2D625-EFB2-401C-CAFD-8FE131131D2B,https://n2t.net/ark:/28722/k20r9r410,PC 19930124,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 21,"1993, ID:84",,http://opencontext.org/subjects/E82D1F24-BFAD-49D7-7E19-007759D2E2C8,43.15276546,11.40146987,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:34:51Z,production/replication,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,Production Waste,Glass,Glass Waster,Surface slightly roughened and pitted.  Bottom edge unfinished.,Fragment is conical with the top bent slightly to the side.,"Max. Pres. Width 0.010 m, Max. Pres. Length 0.015 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>155.588</td>
+    <td>-51.268</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+   <td>155.272</td>
+    <td>-52.217</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",P; Q
+http://opencontext.org/subjects/4D469F68-2449-4AB2-D4B4-AA389C29F7CC,FALSE,PC 19990060,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro South Flank,"Tesoro South Flank, Extension I 0","1999, ID:368",,http://opencontext.org/subjects/847268D2-B10F-4CBB-FFEC-577630572C9C,43.1529581,11.40166074,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:15:42Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,The fragment is broken on all sides. Much surface wear and pitting are visible on the surface.,The fragment preserves a small fragment of bluish-green glass. Some curvature is visible.,"Max. Pres. Length 0.009 m, Max. Pres. Height 0.006 m, Max. Pres. Thickness 0.001 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>169.5</td>
+    <td>-28.8</td>
+    <td>57.0</td>
+    <td></td>
+</tr></tbody></table>",
+http://opencontext.org/subjects/AE45B107-33AC-434F-2582-C2BBC9919E2A,https://n2t.net/ark:/28722/k2vt1mp2d,PC 19890155,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1989, ID:134",,http://opencontext.org/subjects/C2DF07AC-7FBD-47F6-4D82-328BADA0CC8D,43.15262303,11.40168189,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:35:06Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Surface is pitted and rough.,Piece of greenish-yellow glass is approximately wedge shaped.,"Max. Pres. Length 0.009 m, Max. Pres. Width 0.007 m, Max. Pres. Thickness 0.005 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>173.945</td>
+    <td>-65.794</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",X
+http://opencontext.org/subjects/C3628677-96FC-423D-A607-B7CE560766AE,https://n2t.net/ark:/28722/k2416z01j,PC 19780253,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15277905,11.40210005,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:29:15Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Surface pitted and chipped.,"Dark blue fragment, preserving portion of finished rim.","Max. Pres. Height 0.013 m, Max. Pres. Width 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>206.592</td>
+    <td>-46.044</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",E
+http://opencontext.org/subjects/48B1AE89-1709-46DE-2B55-C854BC3DAF69,https://n2t.net/ark:/28722/k2z896f37,PC 19780243,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15277905,11.40210005,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:36:11Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragments,"Both broken irregularly on all sides, surfaces pitted.","Two glass fragments. The thickest of the two pieces, fragment A, is irregularly shaped preserving irridesecence on a small portion of its surface which is predominately dark blue. Fragment  B, roughly triangular in shape, is light blue in color and preserves a small hole near the widest end.",,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>206.592</td>
+    <td>-46.044</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",E
+http://opencontext.org/subjects/70F17ECD-F3D6-46B2-2E0A-F6ADCBB5E1A5,FALSE,PC 19711005,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.1533279,11.40139852,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:38:31Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Fragment preserves no finished edges.  Surfaces are pitted, and have traces of a white, irridescent patina.","Fragment is roughly square in section, and curves along its length.  Glass is clear.","Max. Pres. Length 0.016 m, Max. Pres. Width 0.004 m, Max. Pres. Thickness 0.004 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>145.219</td>
+    <td>10.619</td>
+    <td></td>
+    <td></td>
+</tr><tr>
+   <td>144.268</td>
+    <td>10.93</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",C
+http://opencontext.org/subjects/9DA2F727-89C4-4982-2B8F-2AE4598CFA6D,https://n2t.net/ark:/28722/k2wp9z72p,PC 19770180,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 17,"1977, ID:69",,http://opencontext.org/subjects/7F063C00-F507-4EB3-A384-B487190459E4,43.15359739,11.40154899,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:17:10Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Fragment of Glass,"Rim fragment of a glass vessel, irregularly broken on other remaining sides.  Pitted.","Small fragment of a glass vessel preserving portion of a rounded rim.  The color of the glass is a deep greeinish blue, and portions of a shiny surface are still preserved.","Max. Pres. Length of Rim 0.0205 m, Max. Pres. Width 0.0104 m, Pres. Thickness 0.005-0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>155.228</td>
+    <td>41.362</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",L
+http://opencontext.org/subjects/C727BF40-C741-497A-8314-A0561A8BCA71,https://n2t.net/ark:/28722/k2nv9f92x,PC 19920047,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 26,"1992, ID:139",,http://opencontext.org/subjects/8C6D0960-E44D-4C77-EB65-B1BF15B23C1C,43.15269238,11.40183196,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:27:32Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Blue glass,Rim Fragment of a Glass Vessel,Restored from two pieces.  Surface pitted and rough. Small portions of rim missing.  Broken off at the neck.,"Rim of a small glass bottle.  A raised band encircles the neck, just below the straight rim.  The neck extends partially below this band.","Max. Pres. Height 0.027 m, Max. Pres. Width 0.024 m",,L(M)
+http://opencontext.org/subjects/1B134A59-4A47-41ED-8C7F-39E1715C061F,https://n2t.net/ark:/28722/k2k35rd5q,PC 19780240,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15276659,11.4021036,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:34:02Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Fragment of Glass,Broken irregularly on all sides; surface pitted and worn.,Blue glass fragment irregularly shaped and pitted. Preserves visible streaks of irridescence on the surface.,"Max. Pres. Length 0.021 m, Max. Pres. Width 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>206.981</td>
+    <td>-47.403</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",D
+http://opencontext.org/subjects/730EEFF1-38CF-4DB2-92C3-5335248FECD9,https://n2t.net/ark:/28722/k2pz55m3z,PC 19780241,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 22,"1978, ID:85",,http://opencontext.org/subjects/5C7C5703-C751-4458-9611-3994A62AC974,43.15276988,11.401712,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T09:39:12Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Fragment of Glass,"Broken irregularly on all sides, surface pitted and worn.",Small blue glas fragment with concave profile the obverse side of which preserves three raised parallele bands.,"Max. Pres. Length 0.020 m, Max. Pres. Width 0.006 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>175.192</td>
+    <td>-49.349</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",H
+http://opencontext.org/subjects/D762BCAE-00E2-4595-65E3-65A415D7BC5B,https://n2t.net/ark:/28722/k26w9b94z,PC 19770058,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 17,"1977, ID:69",,http://opencontext.org/subjects/7F063C00-F507-4EB3-A384-B487190459E4,43.15354315,11.40166473,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:38:10Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Small Fragment of Glass,"Small fragment of glass, heavily worn with surface extremely brittle and pitted.",A small fragment of greenish blue glass.,"Max. Pres. Dimensions 0.0166 x 0.0139 m, Max. Pres.Thickness 0.00013 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>165.058</td>
+    <td>36.036</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",J
+http://opencontext.org/subjects/C082CE0E-7B65-467E-A4BB-F7E74770EA6A,https://n2t.net/ark:/28722/k25q4wm0r,PC 19780197,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1978, ID:89",,http://opencontext.org/subjects/3D75850B-7ECD-4675-B297-3FF2F5106D97,43.15275905,11.40209687,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:35:14Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Fragment of Glass,[No condition recorded on original catalog card],"A small, solid, semi-circular piece of glass, blue in color.",Max. Pres. Diameter 0.004 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>206.497</td>
+    <td>-48.278</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",C
+http://opencontext.org/subjects/C1C01F9C-A10A-469B-4AD0-2A36101DD994,FALSE,PC 19720497,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Courtyard,Courtyard,"1972, ID:404",,http://opencontext.org/subjects/97B3FB48-CF5E-4D97-6FC7-E6213BAE2CE7,43.15333533,11.4014162,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:33:56Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,Unclassified / Debris / Misc.,Glass,Three Glass Rings,All rings worn and fragile. Largest ring is chipped.,"Three glass rings are flat discs, with round, off-center holes.",Max. Pres. Diameter of largest ring 0.005 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>146.592</td>
+    <td>11.547</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",H
+http://opencontext.org/subjects/B960E153-D669-437B-923E-1BAFB43D1AB4,https://n2t.net/ark:/28722/k2bv7fv8f,PC 19790074,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1979, ID:92",,http://opencontext.org/subjects/3ECF9E3D-995B-4156-6AB7-87A8BA5BCA99,43.15271704,11.40216215,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:33:07Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Irregularly shaped fragment broken off on all sides. Restored from two pieces. Surface is pitted.,Glass fragment of varying thickness is blue in color.,Max. Pres. Dimension 0.027 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>212.134</td>
+    <td>-52.547</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",A
+http://opencontext.org/subjects/55EDDF1E-54E7-452F-5AD4-481B10D28C68,https://n2t.net/ark:/28722/k2xp70448,PC 20090202,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Unrecorded,Unrecorded,Tr-ID 450,,http://opencontext.org/subjects/C5E19FDF-6A88-476D-4EB1-26046F73809E,43.15336207,11.40202403,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-24T14:30:16Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment with Perforation,"Surfaces are worn, encrusted, and bubbly.","Cobalt blue glass fragment preserves one flat, finished surface and one more irregular surface.  At one end of the fragment is a long, rectangular perforation (max. pres. length 0.0085 m); the perforation is open on one end.","Max. Pres. Length 0.021 m, Max. Pres. Width 0.009 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/FA9AEDFE-914A-4951-D890-DB513C67CB60,FALSE,PC 19711008,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:53:36Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Fragment is broken on one side.  Surfaces are pitted and have traces of white patina.,Fragment is roughly square with rounded corners on the edge opposite the broken edge.  Glass is yellow in color.,"Max. Pres. Length 0.010 m, Max. Pres. Width 0.0085 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/A61B1873-CFF4-463A-C120-A8A89C26105F,https://n2t.net/ark:/28722/k2g15zb27,PC 19790246,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 23,"1979, ID:92",,http://opencontext.org/subjects/3ECF9E3D-995B-4156-6AB7-87A8BA5BCA99,43.15266661,11.4020877,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:48:14Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Two Glass Fragments,"Broken off on all edges. One surface on each fragment is smooth and glossy, the other is unfinished.",Two irregularly shaped glass fragments.,Max. Pres. Diameters 0.015 m and 0.012 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>206.506</td>
+    <td>-58.574</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",HH
+http://opencontext.org/subjects/24CECDB4-BFD3-4907-B987-2A95A66C5077,https://n2t.net/ark:/28722/k2g73c477,PC 19710882,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 17,"1971, ID:68",,http://opencontext.org/subjects/A7F2CCBF-3A83-4AA0-2BD0-0E2E99900624,43.15354634,11.4014273,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T10:52:19Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Fragments,Three separate pieces; one possible finished edge.,"Glass fragments, bluish in color, are possibly the rim of a small vessel.",Max. Pres. Dimension 0.013 m,"<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>145.773</td>
+    <td>34.989</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",C
+http://opencontext.org/subjects/DAD6D5B6-AE93-4576-E1E5-9E45348ED867,FALSE,PC 19711007,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:08:59Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Rim Fragment,Fragment preserves portion of rim.  The slightly pitted surfaces have an irridescent patina.,"Glass fragment preserves portion of bent rim, possibly trefoil, which is thickest at the bend.  The preserved portion of the vessel wall slopes inward from the rim at a sharp angle.  The glass is yellow-green in color.","Max. Pres. Length 0.027, Max. Pres. Height 0.009 m, Max. Pres. Thickness of Rim 0.0055 m, Min. Pres. Thickness of Rim 0.0025 m",,
+http://opencontext.org/subjects/E2B5C688-1748-412D-BE9B-08FC2713E8AF,https://n2t.net/ark:/28722/k2ff3r02b,PC 19780200,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 22,"1978, ID:85",,http://opencontext.org/subjects/5C7C5703-C751-4458-9611-3994A62AC974,43.15277819,11.40171673,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:31:19Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,"Glass, blue",Fragment Glass Bottle,"Broken irregularly on all sides; Surface pitted and worn, preserves one large central crack.","Fragment of a glass bottle, preserving the upper portion of the neck including a thick raised ring which seperates the neck from the preserved section of lip. Fragment is semi-circular in section with concave profile.","Max. Pres. Length 0.030 m, Max. Pres. Width 0.022 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>175.507</td>
+    <td>-48.4</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",G
+http://opencontext.org/subjects/07B6654A-217A-4DB0-84D0-D9C19CB5FDA3,FALSE,PC 19711010,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:23:07Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Three Glass Fragments,"Fragments preserve no finished edges.  Surfaces are chipped and pitted, with traces of white, irridescent patina.",Fragments are broken irregularly.  Glass is clear.,,,
+http://opencontext.org/subjects/A1877DA9-E0DE-4B82-10C0-52126D20E43D,FALSE,PC 19711014,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:33:18Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Base Fragment,"Fragment preserves small portions of the walls of the vessel at the attachment point to the base.  Surface is cracked, chipped and slightly opalesent.","Circular base preserving small portions of the vessel walls.  The base has a convex circular area on the upper surface, corresponding to a concave circular area on the lower surface.  At the center of the concave area on the lower surface, there is a slight projection.  The glass is clear.","Max. Pres. Diameter 0.008 m, Max. Pres. Thickness 0.0025 m, Min. Pres. Thickness 0.001 m",,
+http://opencontext.org/subjects/7A1080DB-827B-41E1-A3F5-5009457EEFBF,FALSE,PC 19711006,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15361443,11.40221062,-700,-535,Glass,2012-12-28T00:00:00Z,2018-01-31T22:13:53Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Three Glass Fragments,"Fragment A preserves one finished edge.  Fragments B and C preserve no finished edges.  All surfaces are pitted and have traces of a white, irridescent patina.","Fragment A preserves a portion of a rounded rim, with a tight curvature.  The rest of its exterior surface is chipped away.  Fragments B and C are irregularly broken.  Glass is dark yellow/amber in color.",,,
+http://opencontext.org/subjects/A78EF74C-F0ED-4D22-DD81-3A747951E095,FALSE,PC 19711013,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:23:51Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Fragment preserves no finished edges.  Surfaces are chipped and pitted, with an irridescent patina.",Fragment is irregularly broken.  Glass is clear.,"Max. Pres. Length 0.020 m, Max. Pres. Width 0.013 m, Max. Pres. Thickness 0.002 m",,
+http://opencontext.org/subjects/4A1C8E2A-A2C5-433E-207A-46686E6ECF05,FALSE,PC 19711001,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:49:41Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Fragment is broken on one side.  The surfaces are heavily pitted and have traces of a white, irridescent patina.",Glass fragment preserves a rounded end; it is broken at the opposite end.  The glass is dark yellow/amber in color.,"Max. Pres. Length 0.009 m, Max. Pres. Width 0.005 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/97DA1607-F769-4626-8615-1836D2DE68C9,FALSE,PC 19711011,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:30:36Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Fragment preserves no finished edges.,"Fragment is irregularly broken, with a projection off one end.  Glass is blue in color.","Max. Pres. Length 0.011 m, Max. Pres. Width 0.004 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/993626D8-5FC2-4F8F-D597-82246B2A15AD,FALSE,PC 19711012,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:30:34Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,"Fragment is broken at both ends, and splintered along its length.  It has an irridescent patina.",Fragment is roughly cylindrical.  Glass is clear.,"Max. Pres. Length 0.021 m, Max. Pres. Thickness 0.002 m",,
+http://opencontext.org/subjects/D35E7B13-50AA-4614-6DED-FBA3E20B6CA5,https://n2t.net/ark:/28722/k2cn72x43,PC 19900095,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Civitate A,Civitate A 35,"1990, ID:205",,http://opencontext.org/subjects/09AE421A-F835-4C9B-F74E-45DD9F270E9D,43.15373892,11.39906226,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:20:58Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Piece reconstructed from two fragments. Surface pitted and rough. One end is broken.,"One end of the glass fragment has been broken, the other is rounded, making the piece look roughly tear-shaped. The diameter tapers from the rounded end to the broken end. The color of the glass is green.","Max. Pres. Length 0.016 m, Max. Pres. Diameter 0.007 m, Min. Pres. Diameter 0.0045 m",,17
+http://opencontext.org/subjects/5701F7B8-8777-401C-79E0-83FE2EBFF06D,FALSE,PC 19711009,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 8,"1971, ID:286",,http://opencontext.org/subjects/F81F3432-2A5C-40E4-CE78-B40E4BE7A3F7,43.15333301,11.40138146,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T10:18:59Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Two Glass Fragments,"Fragments preserve no finished edges.  Surfaces are chipped and pitted, with an irridescent patina.",Both fragments are irregularly broken.  Glass is clear.,,,
+http://opencontext.org/subjects/D8EFB728-53CC-45F6-C696-0A341C7F7423,https://n2t.net/ark:/28722/k26110r7f,PC 19780201,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 22,"1978, ID:85",,http://opencontext.org/subjects/5C7C5703-C751-4458-9611-3994A62AC974,43.15274838,11.40168649,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:40:24Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,"Glass, blue",Fragment of Glass,Surface worn and pitted; All edges broken off irregularly.,"Small fragment of glass, semi-circular in sectin with concave profile, the obverse side of which preserves a series of raised parallel lines (6).","Max. Pres. Length 0.033 m, Max. Pres. Width 0.015 m","<table class=""table table-condensed"">
+    <thead>
+      <tr>
+        <th>EW (x)</th>
+        <th>NS (y)</th>
+        <th>Depth (z)</th>
+        <th>Elev. (z)</th>
+      </tr>
+    </thead><tbody><tr>
+   <td>173.297</td>
+    <td>-51.881</td>
+    <td></td>
+    <td></td>
+</tr></tbody></table>",K
+http://opencontext.org/subjects/A0D153AA-C5B0-4FB2-45EE-BB9CB2B902FC,FALSE,PC 19710444,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T11:03:19Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead","Glass or glass paste, blue-green patinated white.",Glass Bead,Apparently entire - very worn and/or patinated.,"Small flat glass bead is smooth-sided disc with large, round off-center hole.","Max. Pres. Diameter 0.005 m, Max. Pres. Diameter of Hole 0.002 m, Max. Pres. Thickness 0.001 m",,
+http://opencontext.org/subjects/5B63FA44-2F03-463F-E45F-D7E6F5C5095F,FALSE,PC 19710574,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:35:37Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass-paste - blue-green.,Flat Glass-Paste Bead,Entire; encrusted.,"Small, flat bead is round with rough edges and large round hole.","Max. Pres. Diameter 0.004 m, Max. Pres. Thickness 0.001 m, Max. Pres. Diameter of Hole 0.002 m",,
+http://opencontext.org/subjects/E6C8186D-24FB-4DAE-23B0-52BA6314C93D,FALSE,PC 19710573,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:34:45Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass-paste - blue-green.,Flat Glass-Paste Bead,Entire; encrusted.,Small flat bead is round with rough edges and large round hole.,"Max. Pres. Diameter 0.004 m, Max. Pres. Thickness 0.001 m, Max. Pres. Diameter of Hole 0.002 m",,
+http://opencontext.org/subjects/A7E09B41-13A7-4487-EAB7-1FC55464C3FB,https://n2t.net/ark:/28722/k2s46n510,PC 20070172,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 45,"2007, ID:584",,http://opencontext.org/subjects/3AA9E720-0371-4443-5A40-5FE6A5E1DCAE,43.15278775,11.40185938,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:09:44Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragments,"All surfaces are irregularly pitted, chipped and slightly encrusted.","Roughly 34 small fragments of iridescent, cobalt-colored glass preserved.",,,
+http://opencontext.org/subjects/4F443FA5-0E4B-4F28-6D73-D896704B6944,https://n2t.net/ark:/28722/k2zw1dt1v,PC 19660012,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro,Tesoro 2D,"1966, ID:474",,http://opencontext.org/subjects/CC61AFC6-46FC-49AE-7A25-B7B2FDE87AA4,43.15260988,11.40281967,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T12:09:28Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Translucent; pale greenish yellow.,Glass or Quartz Bead,"Worn, with  small pits and a dull beige incrustation on most of the surface.",The bead has a straight-sided hole of uniform diameter drilled slightly off-center.,"Max. Pres. Thickness 0.0065 m, Max. Pres. Diameter Approx. 0.012 m, Max. Pres. Diameter of Hole 0.004 m",,
+http://opencontext.org/subjects/77301E54-31EC-48DA-69E6-EE277196F931,FALSE,PC 19711000,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:39:22Z,sample,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Unclassified / Debris / Misc.,Glass,Glass Fragment,Fragment is broken at both ends.  Surfaces are heavily pitted and have a patina.,"Glass fragment is cylindrical in section, and curved into a crescent shape.  The color is dark blue.","Max. Pres. Length 0.013 m, Max. Pres. Thickness 0.003 m",,
+http://opencontext.org/subjects/95F8F6FE-BA49-4486-1D6A-C6A86E72C2A0,FALSE,PC 19710575,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:16:32Z,bead,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,FALSE,"Costume, Accessories::Bead",Glass-paste - yellow-beige color.,Small Glass-Paste Bead,Entire; worn and very soft.,"Small round bead with slightly rough surfaces approximately flat, with very small round hole.","Max. Pres. Diameter 0.003 m, Max. Pres. Thickness 0.001 m, Max. Pres. Diameter of Hole 0.001 m",,
+http://opencontext.org/subjects/0F44C593-20BB-4DBF-02BD-F4727483C3FE,FALSE,PC 19710881,Murlo,http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F,Italy,Poggio Civitate,Tesoro Rectangle,Tesoro Rectangle 7,"1971, ID:283",,http://opencontext.org/subjects/B91809DA-A28D-438B-F735-636D941825E1,43.15338825,11.40139156,-700,-535,Glass,2012-12-28T00:00:00Z,2018-07-09T14:44:01Z,vessel,glass; Cobalt glass,Archaic (580 BCE - 482 BCE); Orientalizing (750 BCE - 582 BCE),Anthony Tuck,Glass,TRUE,Vessel,Glass,Glass Fragments,Highly fragmentary.,"Glass fragments, two of which have smooth curved surfaces,  might possibly be part of a small vessel.",Max. Pres. Dimension 0.014 m,,
