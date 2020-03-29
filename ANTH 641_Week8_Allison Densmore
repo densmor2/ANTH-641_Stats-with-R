@@ -11,7 +11,7 @@ J.Width   15.40  2.73  3.95 10.6 13.12 15.6 17.08  21.2 90  1
 H.Length  13.41  4.01  5.80  5.8 10.50 12.5 16.30  23.3 91  0
 Weight     7.64  4.21  5.50  2.3  4.55  6.8 10.05  28.8 91  0
 
-Patterns Noticed: 
+Patterns Noticed: By looking at the standard deviation and IQR it is clear that the dartpoints clearly vary greatly in length which is not what is seen in the other variables. This brin
 
 ---
 ### Acheulean Data
@@ -28,8 +28,8 @@ SP   15.43  18.36  17.0  0  4.0   6  21.0   52 7
 OLT   9.14   5.67   5.5  0  7.0   8  12.5   17 7
 SS  104.14 111.64 129.5 17 26.0  46 155.5  303 7
 OST  66.43  69.96  43.5 18 23.5  48  67.0  218 7   
- Patterns Noticed:
- 
+ Patterns Noticed 
+There is definitely a lot more variability within each variable here as seen in the multiple high standard deviations. I am not sure what the percentages mean in either this data table or the other one.
  ---
  ### Charts
 When using R to create charts based on the data, I like that there are multitudes of charts that you can make on the program. Particularly for the La Tene Fibulae, I found the barplot as significantly more helpful for visualizing the data. I cannot deny the minimalistic beauty of the pie chart but when it comes to showing the data in the most effective way, the barplot takes the cake as it allows for the visualization of multiple variables.
